@@ -1,13 +1,6 @@
 
 ---
 
-
-<p align="center">
-  🔭 Passionate about systems, secure networks<br>
-</p>
-
----
-
 ## 💻 Tech Stack
 
 ![VyOS](https://img.shields.io/badge/VyOS-000000.svg?style=for-the-badge&logo=vyos&logoColor=orange)
@@ -18,7 +11,6 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![OpenConnect](https://img.shields.io/badge/OpenConnect-005b82?style=for-the-badge&logo=linux&logoColor=white)
-
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white)
@@ -41,14 +33,6 @@
   <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bsamohamed&layout=compact&theme=tokyonight" />
 </p>
 
----
 
-## 🐍 GitHub Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bsamohamed/Bsamohamed/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bsamohamed/Bsamohamed/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Bsamohamed/Bsamohamed/output/github-snake.svg" />
-</picture>
 
 ---
