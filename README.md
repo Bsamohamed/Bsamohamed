@@ -5,7 +5,6 @@
 
 ![VyOS](https://img.shields.io/badge/VyOS-000000.svg?style=for-the-badge&logo=vyos&logoColor=orange)
 ![FreeRADIUS](https://img.shields.io/badge/FreeRADIUS-cc0000.svg?style=for-the-badge&logo=linux&logoColor=white)
-![YOU](https://img.shields.io/badge/YOU-%20-orange?style=for-the-badge&labelColor=orange&color=orange&logoColor=black&label=YOU)
 ![YOU](https://img.shields.io/badge/YOU-_-black?style=for-the-badge&labelColor=orange)
 ![Firewall](https://img.shields.io/badge/Firewall-Active-blue?style=for-the-badge&logo=lock&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
