@@ -1,6 +1,5 @@
 
 ---
-
 ## 💻 Tech Stack
 
 ![VyOS](https://img.shields.io/badge/VyOS-000000.svg?style=for-the-badge&logo=vyos&logoColor=orange)
