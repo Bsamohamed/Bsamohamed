@@ -3,7 +3,6 @@
 
 ## 💻 Tech Stack
 
-
 ![VyOS](https://img.shields.io/badge/VyOS-000000.svg?style=for-the-badge&logo=vyos&logoColor=orange)
 ![FreeRADIUS](https://img.shields.io/badge/FreeRADIUS-cc0000.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![YOU](https://img.shields.io/badge/YOU-_-black?style=for-the-badge&labelColor=orange)
